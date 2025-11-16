@@ -1,5 +1,8 @@
 # Shopkeepers List ![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FOnys-0%2FShopkeepers-List%2Fmain%2Fpom.xml&query=%2F%2F*%5Blocal-name()%3D'project'%5D%2F*%5Blocal-name()%3D'version'%5D&label=version)
+> **⚠️ This project is archived and no longer actively maintained.**
+
 Effortlessly find shopkeepers on your server with a single command using this plugin.
+
 
 - *Inspired by [_w41k3r's Shopkeepers Addon Plugin](https://www.spigotmc.org/resources/shopkeepers-addon-navigation-economy-plotsquared-vault-integration.98400/)*
 - *Credits to [Blablubbabc's Shopkeepers plugin](https://www.spigotmc.org/resources/shopkeepers.80756/)*
